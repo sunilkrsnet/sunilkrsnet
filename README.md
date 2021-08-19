@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @sunilkrsnet
+- Updated
+- 👋 Hi, I’m @sunilkrsnet 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me 
+
+To Be Merge
 
 <!---
 sunilkrsnet/sunilkrsnet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
